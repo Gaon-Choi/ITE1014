@@ -2,11 +2,12 @@
 INTRODUCTION TO SOFTWARE DESIGN
 
 
-#Introduction to Software Design
+# Introduction to Software Design
 
+## Programming class in 1st grade semester 1.
 
-##Programming class in 1st grade semester 1.
+### Professor: Taehyun Kim(김태현)
 
+### Files in this repository includes codes for learning during practice time.
 
-###Professor: Taehyun Kim(김태현)
-
+### Language : Python and C
