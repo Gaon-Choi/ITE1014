@@ -11,3 +11,9 @@ INTRODUCTION TO SOFTWARE DESIGN
 ### Files in this repository includes codes for learning during practice time.
 
 ### Language : Python and C
+
+#### week1 ~ week7   : Python
+
+#### week8           : Midterm Exam
+
+#### week9 ~ FINAL   : C
