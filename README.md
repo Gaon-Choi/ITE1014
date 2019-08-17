@@ -11,11 +11,11 @@ Programming class in 1st grade semester 1.
 
 Professor: Taehyun Kim(김태현)
 
-Files in this repository includes codes for learning during practice time.
+Files in this repository include codes for learning during practice time.
 
 Language : **Python and C**
 
-<img src="/images/Python-logo.png" width="280" height="120"> 
+<img src="/images/Python-logo.png" width="280" height="120">
 
 [ Python 3 ]
 
